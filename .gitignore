@@ -1,0 +1,14 @@
+.idea
+.vscode
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache
+
+venv/
+
+# ignore dist files
+dist/
+build/
+*.egg-info/
